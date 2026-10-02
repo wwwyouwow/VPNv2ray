@@ -1,9 +1,4 @@
-vless://af46427c-0e23-4dd4-b99b-dcc1d8373667@de.dnsok.cc.cd:443?path=%2F&security=tls&encryption=none&host=www.usok.ad.sd&fp=firefox&type=ws&sni=www.usok.ad.sd#%F0%9F%87%A9%F0%9F%87%AA%E2%9A%A1%D8%B3%D8%A7%D9%84%DB%8C
-trojan://af46427c-0e23-4dd4-b99b-dcc1d8373667@de.dnsok.cc.cd:443?path=%2F%3Fed%3D2560&security=tls&host=www.usok.ad.sd&fp=firefox&type=ws&sni=www.usok.ad.sd#%F0%9F%87%AB%F0%9F%87%AEtrojan%E2%9A%A1%D8%B3%D8%A7%D9%84%DB%8C
-vless://2e0bf334-6016-4a7c-9191-b417299866f1@de.dnsok.cc.cd:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=www.good.ad.sd&fp=firefox&type=ws&sni=www.good.ad.sd#%F0%9F%87%B3%F0%9F%87%B1%F0%9F%8C%9F%D8%B3%D8%A7%D9%84%DB%8C
-trojan://2e0bf334-6016-4a7c-9191-b417299866f1@de.dnsok.cc.cd:443?path=%2F%3Fed%3D2560&security=tls&host=www.good.ad.sd&fp=firefox&type=ws&sni=www.good.ad.sd#%F0%9F%87%A8%F0%9F%87%B5trojan%F0%9F%8C%9F%D8%B3%D8%A7%D9%84%DB%8C
-ss://bm9uZTpNb2hhbW1hZA==@de.dnsok.cc.cd:443#%F0%9F%87%AC%F0%9F%87%A7-ss
-vless://6f9e9c7f-0b6e-4a91-8235-335287748c50@de.dnsok.cc.cd:443?path=%2F&security=tls&encryption=none&host=www.sssh.ee.cd&fp=chrome&type=ws&sni=www.sssh.ee.cd#%F0%9F%87%BA%F0%9F%87%B2%E2%9A%A1%F0%9F%8C%90%D8%B3%D8%A7%D9%84%DB%8C
-
-vless://454431fc-71e2-42b1-b375-5b55dd06666a@77.83.246.202:443/?type=tcp&encryption=none&flow=&sni=example.org&fp=firefox&security=reality&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&sid=#%F0%9F%87%AE%F0%9F%87%B7%F0%9F%95%9E
-vless://758a691a-45d2-4462-a0e8-991248a6994e@49.13.231.249:33483/?type=ws&encryption=none&flow=&path=%2F#%F0%9F%87%A9%F0%9F%87%AAAll%C2%B9%C2%B9%20%7C%20%40BigSmoke_Config
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKZW9xOHVqZmtxWktLdkFDUWhvcUJRMVBBM3VxNDI0Mg==@45.149.114.171:777#%F0%9F%87%AE%F0%9F%87%B3+%D0%98%D0%BD%D0%B4%D0%B8%D1%8F+%5B%23%D0%A0%D0%9A%D0%9F%5D
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.104.43:2083?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=vless#%F0%9F%87%AC%F0%9F%87%A7+%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F+%5B%23%D0%A0%D0%9A%D0%9F%5D
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.104.43:2083?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=vless#%F0%9F%87%AC%F0%9F%87%A7+%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F+%5B%23%D0%A0%D0%9A%D0%9F%5D
+ss://YWVzLTI1Ni1nY206ZXZlYWFUT2I4amk4eW50dzJaOXlXVUcwZDZJcjhMZDhtM3ltSDhUSGRDNWVnaVRIMW1YQ2lCYzBTa3I3RmliSA==@185.156.47.97:9443#%F0%9F%87%A8%F0%9F%87%A6+%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D0%B0+%5B%23%D0%A0%D0%9A%D0%9F%5D
